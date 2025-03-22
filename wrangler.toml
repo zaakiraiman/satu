@@ -1,0 +1,11 @@
+name = "cf-malindo21"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "http://103.131.191.170:443"
+UUID = "80572ef5-cef5-442d-97e5-345fa2399454"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
